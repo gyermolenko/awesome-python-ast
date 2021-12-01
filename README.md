@@ -32,6 +32,7 @@ Python tools, libraries and resources about AST (as in Abstract Syntax Trees)
 - [parso](https://github.com/davidhalter/parso) - parser that supports error recovery and round-trip parsing
 - [redbaron](https://github.com/PyCQA/redbaron) - Bottom-up approach to refactoring in python
 - [show_ast](https://github.com/hchasestevens/show_ast) - An IPython notebook plugin for visualizing ASTs.
+- [synr](https://github.com/octoml/synr) - A library that provides a stable Abstract Syntax Tree for Python.
 - [tokenize-rt](https://github.com/asottile/tokenize-rt) - A wrapper around the stdlib `tokenize` which roundtrips.
 
 
