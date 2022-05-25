@@ -59,6 +59,14 @@ Python tools, libraries and resources about AST (as in Abstract Syntax Trees)
 - [reorder_python_imports](https://github.com/asottile/reorder_python_imports) - reordering python imports
 
 
+## Documentation tools and API extractors
+- [pydoctor](https://github.com/twisted/pydoctor) - An API documentation generator that works by static analysis.
+- [sphinx-autoapi](https://github.com/readthedocs/sphinx-autoapi) - A new approach to API documentation in Sphinx.
+- [mkdocstring](https://github.com/mkdocstrings/mkdocstrings) - Automatic documentation from sources, for MkDocs.
+- [griffe](https://github.com/mkdocstrings/griffe) - Signatures for entire Python programs.
+- [docspec](https://github.com/NiklasRosenstein/docspec) - Docspec is an object specification for representing python API and provides it's parser.
+
+
 ## Other
 - [add-trailing-comma](https://github.com/asottile/add-trailing-comma) - A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.
 - [pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
@@ -67,7 +75,6 @@ Python tools, libraries and resources about AST (as in Abstract Syntax Trees)
 
 ## Online tools
 - [python-ast-explorer](https://github.com/maligree/python-ast-explorer)
-
 
 
 ## Articles
